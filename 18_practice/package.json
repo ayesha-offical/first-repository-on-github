@@ -1,0 +1,11 @@
+{
+  "name": "18_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "17.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
