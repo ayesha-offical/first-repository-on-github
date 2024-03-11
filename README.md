@@ -1,2 +1,3 @@
 # first-repository-on-github
-this is my first repository 
+In this repository i solve 45 assingment with typescript and nodejs
+
